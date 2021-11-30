@@ -1,0 +1,41 @@
+<item>
+  <patient id="5">
+    <surname>Ботова</surname>
+    <name>Вера</name>
+    <dadname>Олеговна</dadname>
+    <birthday>05.05.1996 0:00:00</birthday>
+    <phone>79678955630</phone>
+  </patient>
+  <visits>
+    <visit id="10">
+      <date__visit>05.10.2021 0:00:00</date__visit>
+      <diagnosis>L00-G09 </diagnosis>
+      <id__patient>5</id__patient>
+    </visit>
+    <visit id="5">
+      <date__visit>05.05.2021 0:00:00</date__visit>
+      <diagnosis>L00-G09 </diagnosis>
+      <id__patient>5</id__patient>
+    </visit>
+    <visit id="6">
+      <date__visit>01.06.2021 0:00:00</date__visit>
+      <diagnosis>H00-G09 </diagnosis>
+      <id__patient>5</id__patient>
+    </visit>
+    <visit id="7">
+      <date__visit>02.07.2021 0:00:00</date__visit>
+      <diagnosis>J00-G09 </diagnosis>
+      <id__patient>5</id__patient>
+    </visit>
+    <visit id="8">
+      <date__visit>03.08.2021 0:00:00</date__visit>
+      <diagnosis>G00-G09 </diagnosis>
+      <id__patient>5</id__patient>
+    </visit>
+    <visit id="9">
+      <date__visit>04.09.2021 0:00:00</date__visit>
+      <diagnosis>M00-G09 </diagnosis>
+      <id__patient>5</id__patient>
+    </visit>
+  </visits>
+</item>

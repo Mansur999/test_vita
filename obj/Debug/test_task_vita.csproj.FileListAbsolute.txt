@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\test_task_vita\bin\Debug\test_task_vita.exe.config
+C:\Users\User\source\repos\test_task_vita\bin\Debug\test_task_vita.exe
+C:\Users\User\source\repos\test_task_vita\bin\Debug\test_task_vita.pdb
+C:\Users\User\source\repos\test_task_vita\obj\Debug\test_task_vita.csprojAssemblyReference.cache
+C:\Users\User\source\repos\test_task_vita\obj\Debug\test_task_vita.Form1.resources
+C:\Users\User\source\repos\test_task_vita\obj\Debug\test_task_vita.Properties.Resources.resources
+C:\Users\User\source\repos\test_task_vita\obj\Debug\test_task_vita.csproj.GenerateResource.cache
+C:\Users\User\source\repos\test_task_vita\obj\Debug\test_task_vita.exe
+C:\Users\User\source\repos\test_task_vita\obj\Debug\test_task_vita.pdb
+C:\Users\User\source\repos\test_task_vita\obj\Debug\test_task_vita.Patient_input.resources
+C:\Users\User\source\repos\test_task_vita\obj\Debug\test_task_vita.visitFormInput.resources
+C:\Users\User\source\repos\test_task_vita\obj\Debug\test_task_vita.outPatient.resources
+C:\Users\User\source\repos\test_task_vita\obj\Debug\test_task_vita.outVisitByPatient.resources
